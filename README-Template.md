@@ -1,7 +1,9 @@
-# Titre du projet
-_(juste en dessous des badges sympatiques à placer)_
+# Grand Theft Auto 6 Website
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge]([http://forthebadge.com/images/badges/built-with-love.svg](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347))]
+(http://forthebadge.com)  [![forthebadge]([http://forthebadge.com/images/badges/powered-by-electricity.svg](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white))](http://forthebadge.com)
+[![forthebadge]([[http://forthebadge.com/images/badges/built-with-love.svg](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)))]
+(http://forthebadge.com)
 
 Une petite description du projet
 
