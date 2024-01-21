@@ -1,6 +1,7 @@
 # Grand Theft Auto 6 Website
 
 [![forthebadge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://forthebadge.com)
 
 Une petite description du projet
 
