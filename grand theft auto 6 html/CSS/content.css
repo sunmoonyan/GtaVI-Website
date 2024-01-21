@@ -1,0 +1,144 @@
+html { 
+  background: url(https://staticg.sportskeeda.com/editor/2023/12/baa66-17020247909947-1920.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*rectangle noir*/
+#background_rect{
+  width:100%;
+  height:420px;
+margin-top: 5%;
+  background:#101517;
+
+
+
+}
+
+#main_rect{
+  width:90%;
+  height:1450px;
+margin: 5%;
+  background:#101517;
+    border-radius: 8px;
+     background-color: rgba(10, 10, 10, 0.95);
+}
+
+
+/*contenu du rectangle noir*/
+/*logo rockstar game*/
+
+#rockstarlogo
+{
+float: left;
+  width: 10%;
+margin: 2% 2%;
+}
+/*text info*/
+#info
+{
+  font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+      font-size: 15px;
+      margin-left: 20%;
+      margin-right: 5%;
+      padding-top: 4.5%;
+}
+/*social media*/
+
+#youtube
+{
+      border: none;
+      background-color: transparent;
+      background-image:url(https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg);
+      background-size: cover;
+      width: 50px;
+      height: 50px;
+      margin-top: 3%;
+      margin-left: 30%;
+}
+
+#facebook
+{
+        border: none;
+  background-color: transparent;
+      background-color: transparent;
+      background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png);
+      background-size: cover;
+      width: 50px;
+      height: 50px;
+      margin-left: 2.5%;
+
+}
+
+#twitter
+{
+  background-color: transparent;
+      border: none;
+      background-color: transparent;
+      background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/600px-X_logo_2023_%28white%29.png);
+      background-size: cover;
+      width: 50px;
+      height: 50px;
+            margin-left: 2.5%;
+}
+
+#Title
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+      font-size: 50px;
+      margin-left: 5%;
+      margin-right: 5%;
+      padding-top: 3.5%;
+}
+
+#lucia
+{
+float: right;
+  width: 20%;
+margin: 2% 5%;
+}
+
+#infoperso
+{
+  font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+      font-size: 25px;
+      margin-left: 10%;
+      margin-right: 5%;
+      padding-top: 4.5%;
+}
+#jason
+{
+float: right;
+  width: 20%;
+margin: 2% 5%;
+}
+#closebutton
+{
+
+  background-color: #101517;
+  color: white;
+  border: 2px solid white; /* Green */
+    transition-duration: 0.4s;
+    border-radius: 5px;
+font-size: 20px;
+  display: block;
+  width: 15%;
+  height: 5%;
+
+    background: #101517
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-color .5s;
+
+   position : absolute;
+margin: 3.5% 34%;
+}
+#closebutton:hover {
+ background-color: white;
+   color: #101517;
+}

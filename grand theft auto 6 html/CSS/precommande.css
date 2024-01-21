@@ -1,0 +1,105 @@
+html { 
+  background: url(https://images2.alphacoders.com/134/1343198.png) no-repeat center center fixed; 
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*rectangle noir*/
+#background_rect{
+  width:90%;
+  height:800px;
+margin: 5%;
+  background:#101517;
+    border-radius: 8px;
+}
+
+#cover
+{
+float: left;
+  width: 25%;
+margin: 7% 4%;
+   border-radius: 8px;
+
+}
+
+#buybutton
+{
+
+  background-color: #101517;
+  color: white;
+  border: 2px solid white; /* Green */
+    transition-duration: 0.4s;
+    border-radius: 5px;
+font-size: 20px;
+  display: block;
+  width: 15%;
+  height: 5%;
+
+    background: #101517
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-color .5s;
+
+   position : absolute;
+margin: 27.5% 34%;
+}
+#buybutton:hover {
+ background-color: white;
+   color: #101517;
+}
+#Title
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+      font-size: 50px;
+      margin-left: 30%;
+      margin-right: 5%;
+      padding-top: 7.5%;
+}
+
+#Description
+{
+    font-family: Monospace, Monaco, monospace;
+    color: white;
+      font-size: 13px;
+      padding-right: 1%;
+      padding-top: 3.5%;
+
+}
+
+#closebutton
+{
+
+  background-color: #101517;
+  color: white;
+  border: 2px solid white; /* Green */
+    transition-duration: 0.4s;
+    border-radius: 5px;
+font-size: 20px;
+  display: block;
+  width: 15%;
+  height: 5%;
+
+    background: #101517
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-color .5s;
+
+   position : absolute;
+margin: 6.5% 34%;
+}
+#closebutton:hover {
+ background-color: white;
+   color: #101517;
+}
+#video
+{
+  margin-left: 10%;
+  padding-bottom: 13%;
+    float: right;
+  margin-right: 2.5%;
+
+}
